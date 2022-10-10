@@ -1,10 +1,8 @@
-- 👋 Hi, I’m @harsha2124
-- 👀 I’m interested in hacking
-- 🌱 I’m currently learning cyber security
-- 💞️ I’m looking to collaborate on hacking
-- 📫 How to reach me ....
+```
+git clone https://github.com/brookehorizon/instahak
+cd instahak
+python3 -m pip install -r requirements.txt
+python3 app.py
+```
 
-<!---
-harsha2124/harsha2124 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+![instahak](https://user-images.githubusercontent.com/86805843/180642395-14bd6019-c46c-4c17-9964-232bd0b29d4e.png)
